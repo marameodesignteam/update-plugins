@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(chmod +x *)",
+      "Bash(bash -n /Volumes/na2024/Passion/update-facetwp/deploy-facetwp.sh)"
+    ]
+  }
+}
