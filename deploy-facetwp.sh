@@ -20,6 +20,12 @@ TARGETS=(
   "rda-dev|master_bhxfntusar|139.59.151.100|22|/home/master/applications/dev/public_html/wp-content/plugins/facetwp/"
   # "rda-staging|master_xyz|1.2.3.4|22|/home/master/applications/STAGING_SLUG/public_html/wp-content/plugins/facetwp/"
   # "rda-prod|master_xyz|5.6.7.8|22|/home/master/applications/PROD_SLUG/public_html/wp-content/plugins/facetwp/"
+  "liverty|master_pyebeyzefp|45.77.51.3|22|/home/master/applications/livertylive/public_html/wp-content/plugins/facetwp/"
+  "wpi|master_pyebeyzefp|45.77.51.3|22|/home/master/applications/wpi/public_html/wp-content/plugins/facetwp/"
+  "scp|master_pyebeyzefp|45.77.51.3|22|/home/master/applications/scp/public_html/wp-content/plugins/facetwp/"
+  "htqct|master_pyebeyzefp|45.77.51.3|22|/home/master/applications/ctlive/public_html/wp-content/plugins/facetwp/"
+  "tappc|master_jjcupqskgb|108.61.251.71|22|/home/master/applications/nchzfukjqn/public_html/wp-content/plugins/facetwp/"
+  "mmc|master_jpykwhusdp|165.22.26.161|22|/home/master/applications/ruxtuchpar/public_html/wp-content/plugins/facetwp/"
 )
 
 # ─── Helpers ──────────────────────────────────────────────────────────────────
